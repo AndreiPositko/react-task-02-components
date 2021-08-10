@@ -29,7 +29,7 @@ const Statistics = (props) => {
                             bckg={`rgb(${getRandomInt(0, 255)}, 
                             ${getRandomInt(0, 255)}, 
                             ${getRandomInt(0, 255)}, 
-                            ${0.7})`
+                            ${0.8})`
                             }>
                             <Styled.StatLabel>
                                 {item.label}
